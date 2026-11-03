@@ -13,6 +13,9 @@
 ## Notebook demonstrating BraTS metastasis segmentation
 [Notebook metastasis](./example_brats_mets.ipynb)
 
+## Implementation
+One-to-One, Many-to-One, Vornoi-Region-Wise and AUTC are implemented in the latest release of [Panoptica](https://github.com/BrainLesion/panoptica), experimental One-to-Many can be found on this [fork](https://github.com/ErikGro/panoptica/tree/One-to-Many).
+
 ## Citation
 Erik Großkopf*, Soumya Snigdha Kundu*, Hendrik Möller, Nicolas Münster, Mehdi Astaraki, Paula Tamara Buzduga, Kerstin Ritter, Benedikt Wiestler, Jan Kirschke, Jonathan Shapey, Tom Vercauteren and Florian Kofler (2026). *Redefining Instance Matching: A Unified Framework for Part-Aware Matching in Panoptic Segmentation Evaluation* [arXiv preprint arXiv:2605.31094](https://arxiv.org/abs/2605.31094). (* Equal contribution)
 
@@ -27,14 +30,3 @@ Erik Großkopf*, Soumya Snigdha Kundu*, Hendrik Möller, Nicolas Münster, Mehdi
       url={https://arxiv.org/abs/2605.31094}, 
 }
 ```
-
-
-## TODO
-- [ ] Move to koflerlab
-- [ ] bib tex
-- [ ] link description
-- [ ] description website
-- [ ] link to panoptica affiliation
-- [ ] Typo repo title
-- [ ] update playground figure
-- [ ] update playground link
